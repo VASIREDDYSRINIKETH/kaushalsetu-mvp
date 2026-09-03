@@ -17,7 +17,9 @@ A React-based web application prototype developed as part of an entrepreneurship
 - Node.js
 - npm
 - Git
+## Live Demo
 
+[KaushalSetu MVP](https://kaushalsetu-mvp.vercel.app)
 ### Installation
 
 ```bash
